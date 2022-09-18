@@ -1,18 +1,24 @@
-Hi, I’m ShadowProgrammer/ShadowDeveloper!
+### Hello! I'm ShadowProgrammer! I'm a programmer and CEO of BlackOut Studios. I do the funny with computer.
 
-I’m working on:
+I work on:
   - AI, 
   - Games,
-  - Simulations
+  - Simulations,
+  - Mods/Plugins,
+  - and more!
 
 Languages known (best --> worst)
  1. Python
- 2. JavaScript
- 3. C#
+ 2. C#
+ 3. JavaScript
  4. Java
+ 5. Lua
 
 `I'm gonna be honest I thought that list was longer.   ¯\_ (ツ)_/¯`
 
-Spring in Your Step is back!
+Contact, Socials, and Links!:
 
-Contact me at wyatt.darley0515@outlook.com
+ - Email: wyatt.darley0515@outlook.com
+ - Reddit: [u/ShadowDevoloper](https://www.reddit.com/u/ShadowDevoloper) (I spelled it wrong...)
+ - Discord: ShadowProgrammer#1519 and join the [BlackOut Studios Discord](https://discord.gg/XMCnVzcp)!
+ - itch.io: [ShadowProgrammer](shadowprogrammer.itch.io)
