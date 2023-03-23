@@ -10,9 +10,10 @@ I work on:
 Languages known (best --> worst)
  1. Python
  2. C#
- 3. JavaScript
- 4. Java
- 5. Lua
+ 3. Java
+ 4. Lua
+ 5. Go
+ 6. C++
 
 `I'm gonna be honest I thought that list was longer.   ¯\_ (ツ)_/¯`
 
