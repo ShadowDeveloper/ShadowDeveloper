@@ -21,5 +21,5 @@ Contact, Socials, and Links!:
 
  - Email: wyatt.darley0515@outlook.com
  - Reddit: [u/ShadowDevoloper](https://www.reddit.com/u/ShadowDevoloper) (I spelled it wrong...)
- - Discord: ShadowProgrammer#1519 and join the [BlackOut Studios Discord](https://discord.gg/x9Yk8E4YdF)!
+ - Discord: @shadowprogrammer and join the [BlackOut Studios Discord](https://discord.gg/x9Yk8E4YdF)!
  - itch.io: [ShadowProgrammer](https://shadowprogrammer.itch.io)
