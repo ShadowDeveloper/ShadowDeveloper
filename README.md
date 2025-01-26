@@ -1,4 +1,4 @@
-### Hello! I'm ShadowProgrammer! I'm a programmer and CEO of BlackOut Studios. I do the funny with computer.
+### Hello! I'm ShadowProgrammer / ShadowDeveloper!
 
 I work on:
   - AI, 
@@ -15,11 +15,21 @@ Languages known (best --> worst)
  5. Go
  6. C++
 
-`I'm gonna be honest I thought that list was longer.   ¯\_ (ツ)_/¯`
+ I also dabble in 
+   - hacking,
+   - linguistics,
+   - psychology,
+   - physics,
+   - culinary arts,
+   - and math.
+     
+I do the funny with computer.
 
-Contact, Socials, and Links!:
-
- - Email: wyatt.darley0515@outlook.com
- - Reddit: [u/ShadowDevoloper](https://www.reddit.com/u/ShadowDevoloper) (I spelled it wrong...)
- - Discord: @shadowprogrammer and join the [BlackOut Studios Discord](https://discord.gg/x9Yk8E4YdF)!
- - itch.io: [ShadowProgrammer](https://shadowprogrammer.itch.io)
+Contact, Socials, and Links!
+ - Reddit: [u/ShadowDevoloper](https://www.reddit.com/u/ShadowDevoloper) ; I spelled it wrong...
+ - Discord: @shadowprogrammer ; shoot me a DM if you have questions ig
+ - HuggingFace: [ShadowProgrammer](https://huggingface.co/ShadowProgrammer) ; for the AI enthusiasts
+ - Kaggle: [ShadowProgrammer](https://www.kaggle.com/shadowprogrammer) ; also for the AI enthusiasts
+ - StackExchange: [ShadowProgrammer](https://stackexchange.com/users/20384845/shadowprogrammer?tab=accounts) ; idk why would you want to see my stupid questions but here they are
+ - itch.io: [ShadowProgrammer](https://shadowprogrammer.itch.io) ; subpar games released pretty much never
+ - Steam: [ShadowProgrammer](https://steamcommunity.com/id/ShadowProgrammer/) ; honestly at this point I'm just adding stuff to make myself seem more popular than I am 😭
