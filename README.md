@@ -8,12 +8,11 @@ I work on:
   - and more!
 
 Languages known (best --> worst)
- 1. Python
- 2. C#
- 3. Java
- 4. Lua
- 5. Go
- 6. C++
+  1. Python
+  2. C#
+  3. Java
+  4. JS
+  as well as a bit of Julia, C++, Ruby, etc.
 
  I also dabble in 
    - hacking,
